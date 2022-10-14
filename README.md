@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="60px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Ashish Kohad</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 <br/>
 <img align="right" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
