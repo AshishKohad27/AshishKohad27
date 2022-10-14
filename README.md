@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img width="60px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Ashish Kohad</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
+<br/>
+<img align="right" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkohad27&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkohad27" /> </p>
-<br/>
-<br/>
+
 
 ## 🙋🏻‍♂️ About Me
 
@@ -18,10 +18,11 @@
 
 <br/>
 <br/>
+<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkohad27" alt="ashishkohad27" /></a> </p>
 
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">Connect with me</h1>
 <p align="center">
 <a href="https://linkedin.com/in/ashish kohad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kohad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ashish kohad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish kohad" height="30" width="40" /></a>
@@ -42,4 +43,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkohad27&show_icons=true&theme=dark" alt="ashishkohad27" /></p>
 <br/>
+<br/>
+<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=ashishkohad27&theme=react-dark" alt="ashishkohad27"/></a></p>
 
