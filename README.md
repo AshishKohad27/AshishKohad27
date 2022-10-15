@@ -4,7 +4,7 @@
 <br/>
 <img align="right" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkohad27&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkohad27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshishKohad27&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkohad27" /> </p>
 
 
 ## 🙋🏻‍♂️ About Me
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkohad27" alt="ashishkohad27" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshishKohad27" alt="ashishkohad27" /></a> </p>
 
 <h1 align="center">Connect with me</h1>
 <br/>
