@@ -42,12 +42,13 @@
 
 <h1 align="center">📊 My Github Stats</h1>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkohad27&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashishkohad27" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkohad27&&show_icons=true&theme=dark" alt="ashishkohad27" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshishKohad27&show_icons=true&theme=dark&locale=en&layout=compact" alt="AshishKohad27" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshishKohad27&&show_icons=true&theme=dark" alt="ashishkohad27" /></p>
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkohad27&show_icons=true&theme=dark" alt="ashishkohad27" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishKohad27&show_icons=true&theme=dark" alt="ashishkohad27" /></p>
 <br/>
 <br/>
-<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=ashishkohad27&theme=react-dark" alt="ashishkohad27"/></a></p>
+<p align="center"><a href="https://github.com/AshishKohad27/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=AshishKohad27&theme=react-dark" alt="ashishkohad27"/></a></p>
 
