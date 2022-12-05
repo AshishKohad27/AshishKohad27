@@ -34,7 +34,7 @@
 </p>
 <br/>
 
-<h1 align="center">Intreset</h1>
+<h1 align="center">Interest</h1>
 <div align="center">
   <p>1. Solving rubik's cube</p>
   <p>2. Learning about Cosmology</p>
