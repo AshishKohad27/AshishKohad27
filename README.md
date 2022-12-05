@@ -32,7 +32,12 @@
 <a href="https://www.hackerrank.com/kohadashish27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kohadashish27" height="30" width="40" /></a>
 <a href="https://leetcode.com/AshishKohad27/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishkohad27" height="30" width="40" /></a>
 </p>
+<br/>
 
+<h1 align="center">Intreset</h1>
+<p>1. Solving rubik's cube</p>
+<p>2. Learning about Cosmology</p>
+<p>3. Reading Books</p>
 <br/>
 
 <h1 align="center">Languages and Tools</h1>
