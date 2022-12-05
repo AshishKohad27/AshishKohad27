@@ -35,9 +35,11 @@
 <br/>
 
 <h1 align="center">Intreset</h1>
-<p>1. Solving rubik's cube</p>
-<p>2. Learning about Cosmology</p>
-<p>3. Reading Books</p>
+<div align="center">
+  <p>1. Solving rubik's cube</p>
+  <p>2. Learning about Cosmology</p>
+  <p>3. Reading Books</p>
+  </div>
 <br/>
 
 <h1 align="center">Languages and Tools</h1>
