@@ -57,5 +57,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishKohad27&show_icons=true&theme=dark" alt="ashishkohad27" /></p>
 <br/>
 <br/>
-<p align="center"><a href="https://github.com/AshishKohad27/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=AshishKohad27&theme=react-dark" alt="ashishkohad27"/></a></p>
 
