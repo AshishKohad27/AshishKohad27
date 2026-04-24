@@ -58,12 +58,14 @@ Full Stack Developer with **3+ years** of experience building scalable web appli
     <td>Component design &nbsp;·&nbsp; Middleware patterns &nbsp;·&nbsp; Auth flows &nbsp;·&nbsp; Performance optimization</td>
   </tr>
   <tr>
+    <td><b>CMS</b></td>
+    <td>WordPress &nbsp;·&nbsp; Shopify</td>
+  </tr>
+  <tr>
     <td><b>Tooling</b></td>
     <td>Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Figma &nbsp;·&nbsp; Chrome DevTools &nbsp;·&nbsp; VS Code</td>
   </tr>
 </table>
-
-<sub>Also experienced with WordPress and WooCommerce from earlier client work.</sub>
 
 ---
 
