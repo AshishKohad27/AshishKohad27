@@ -59,7 +59,7 @@ Full Stack Developer with **3+ years** of experience building scalable web appli
   </tr>
   <tr>
     <td><b>CMS</b></td>
-    <td>WordPress &nbsp;·&nbsp; Shopify</td>
+    <td>WordPress &nbsp;·&nbsp; WooCommerce &nbsp;·&nbsp; Shopify</td>
   </tr>
   <tr>
     <td><b>Tooling</b></td>
