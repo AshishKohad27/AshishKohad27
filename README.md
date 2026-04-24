@@ -4,7 +4,7 @@
       <h1>Ashish Kohad</h1>
       <p><b>Full Stack Developer</b> &nbsp;·&nbsp; Wardha, India</p>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=111827&width=520&lines=Building+production+web+systems.;Fast%2C+scalable%2C+and+built+to+perform.;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Prisma+%E2%80%A2+MySQL" alt="tagline" />
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=ffffff&width=520&lines=Building+production+web+systems.;Fast%2C+scalable%2C+and+built+to+perform.;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Prisma+%E2%80%A2+MySQL" alt="tagline" />
       </p>
       <p>
         <a href="https://ashishkohad27.github.io/">Portfolio</a> &nbsp;·&nbsp;
@@ -100,9 +100,6 @@ Delivering production web applications and business websites. Focus on scalable 
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishKohad27&bg_color=ffffff&color=111827&line=111827&point=111827&area=true&area_color=e5e7eb&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/AshishKohad27/AshishKohad27/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
 
 ---
 
