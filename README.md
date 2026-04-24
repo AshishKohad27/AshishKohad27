@@ -22,7 +22,7 @@
 
 ### About
 
-Full Stack Developer with **3+ years** of experience delivering production web systems — REST APIs, authentication, e-commerce, and performance-optimized frontends. Currently at **Achieveee Design & Development Pvt. Ltd.**, open to Full Stack and Frontend roles at product-based companies.
+Full Stack Developer with **3+ years** of experience building scalable web applications with **React, Next.js, Node.js, and Prisma**. I design REST APIs, JWT-based auth systems, and component-driven frontends that ship fast and stay maintainable. Currently at **Achieveee Design & Development Pvt. Ltd.**, open to Full Stack and Frontend roles at product-based companies.
 
 ---
 
@@ -36,11 +36,34 @@ Full Stack Developer with **3+ years** of experience delivering production web s
 
 ### Technologies
 
-**Frontend** &nbsp; React · Next.js (App Router) · TypeScript · Redux Toolkit · Tailwind CSS
-**Backend** &nbsp;&nbsp;&nbsp; Node.js · Express · REST · JWT · RBAC
-**Database** &nbsp;&nbsp; MySQL · MongoDB · Prisma ORM
-**Platforms** &nbsp; WordPress · WooCommerce · Shopify
-**Tooling** &nbsp;&nbsp;&nbsp; Git · GitHub · Postman · Figma · Chrome DevTools
+<table>
+  <tr>
+    <td width="140"><b>Languages</b></td>
+    <td>TypeScript &nbsp;·&nbsp; JavaScript (ES6+) &nbsp;·&nbsp; SQL</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React &nbsp;·&nbsp; Next.js (App Router) &nbsp;·&nbsp; Redux Toolkit &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; Axios</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; REST API Design &nbsp;·&nbsp; JWT &nbsp;·&nbsp; RBAC</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Prisma ORM</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>Component design &nbsp;·&nbsp; Middleware patterns &nbsp;·&nbsp; Auth flows &nbsp;·&nbsp; Performance optimization</td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td>Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Figma &nbsp;·&nbsp; Chrome DevTools &nbsp;·&nbsp; VS Code</td>
+  </tr>
+</table>
+
+<sub>Also experienced with WordPress and WooCommerce from earlier client work.</sub>
 
 ---
 
@@ -48,7 +71,7 @@ Full Stack Developer with **3+ years** of experience delivering production web s
 
 **Full Stack Developer** &nbsp;·&nbsp; *Achieveee Design & Development Pvt. Ltd.* &nbsp;·&nbsp; May 2023 – Present
 
-Delivering production web applications and business websites. Focus on scalable component architecture, API design, and performance optimization. Consistently ships projects with 95+ PageSpeed scores and sub-three-second load times.
+Building production full-stack applications on the React + Node.js stack. Focus on scalable component architecture, REST API design, authentication systems, and performance optimization. Consistently ships projects with 95+ PageSpeed scores and sub-three-second load times.
 
 ---
 
@@ -82,10 +105,10 @@ Delivering production web applications and business websites. Focus on scalable 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| Business Website | Responsive agency site, 40% faster load, 95+ PageSpeed | WordPress, Elementor |
-| E-commerce Platform | WooCommerce storefront — 50+ products, ~3s load | WordPress, WooCommerce |
-| Full Stack Application | JWT-authenticated app, 10+ REST APIs, 15+ reusable components | React, Node.js, Express, MongoDB |
-| Learning Platform | Frontend with search, filtering, pagination, sorting | React, JavaScript |
+| Full Stack Application | JWT-authenticated web app with 10+ REST APIs and 15+ reusable components | React, Node.js, Express, MongoDB |
+| Learning Platform | Frontend with search, filtering, pagination, and sorting across large datasets | React, JavaScript |
+| E-commerce Platform | Storefront with 50+ products, cart, and checkout flow; ~3s load time | WooCommerce |
+| Business Website | Responsive site with 40% faster load and 95+ PageSpeed score | WordPress, Elementor |
 
 ---
 
