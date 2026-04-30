@@ -9,7 +9,7 @@
       <p>
         <a href="https://ashishkohad27.github.io/">Portfolio</a> &nbsp;·&nbsp;
         <a href="https://linkedin.com/in/ashish-kohad27">LinkedIn</a> &nbsp;·&nbsp;
-        <a href="mailto:ashishkohad27@gmail.com">Email</a>
+        <a href="mailto:kohadashish27@gmail.com">Email</a>
       </p>
     </td>
     <td width="38%" align="right" valign="middle">
@@ -132,6 +132,6 @@ Building production full-stack applications on the React + Node.js stack. Focus 
 
 For roles, collaborations, or consulting enquiries:
 
-- **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ashishkohad27@gmail.com
+- **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kohadashish27@gmail.com
 - **LinkedIn** &nbsp; linkedin.com/in/ashish-kohad27
 - **Portfolio** &nbsp; ashishkohad27.github.io
