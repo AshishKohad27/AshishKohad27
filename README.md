@@ -117,12 +117,12 @@ Building production full-stack applications on the React + Node.js stack. Focus 
 ### GitHub Activity
 
 <p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=AshishKohad27&show_icons=true&hide_border=true&hide=issues&title_color=111827&icon_color=111827&text_color=374151&bg_color=ffffff" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKohad27&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff&langs_count=6" alt="languages" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ashishKohad27&show_icons=true&hide_border=true&hide=issues&title_color=111827&icon_color=111827&text_color=374151&bg_color=ffffff" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishKohad27&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff&langs_count=6" alt="languages" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishKohad27&bg_color=ffffff&color=111827&line=111827&point=111827&area=true&area_color=e5e7eb&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishKohad27&bg_color=ffffff&color=111827&line=111827&point=111827&area=true&area_color=e5e7eb&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </p>
 
 
